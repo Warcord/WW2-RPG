@@ -1,0 +1,124 @@
+{
+    "ranks": [
+        {
+            "rank": "I",
+            "rankLvl": 1,
+            "neededXp": 1000,
+            "xpBooster": 0.4,
+            "coinBooster": 0.2,
+            "battleCooldown": 600000
+        },
+        {
+            "rank": "II",
+            "rankLvl": 2,
+            "neededXp": 4500,
+            "xpBooster": 0.7,
+            "coinBooster": 0.5,
+            "battleCooldown": 1200000
+        },
+        {
+            "rank": "III",
+            "rankLvl": 3,
+            "neededXp": 6000,
+            "xpBooster": 1,
+            "coinBooster": 0.8,
+            "battleCooldown": 2100000
+        },
+        {
+            "rank": "IV",
+            "rankLvl": 4,
+            "neededXp": 7600,
+            "xpBooster": 1.2,
+            "coinBooster": 1,
+            "battleCooldown": 2400000
+        },
+        {
+            "rank": "V",
+            "rankLvl": 5,
+            "neededXp": 10000,
+            "xpBooster": 1.4,
+            "coinBooster": 1.3,
+            "battleCooldown": 3600000
+        },
+        {
+            "rank": "VI",
+            "rankLvl": 6,
+            "neededXp": 13400,
+            "xpBooster": 1.7,
+            "coinBooster": 1.5,
+            "battleCooldown": 4200000
+        },
+        {
+            "rank": "VII",
+            "rankLvl": 7,
+            "neededXp": 17900,
+            "xpBooster": 1.9,
+            "coinBooster": 1.5,
+            "battleCooldown": 5100000
+        },
+        {
+            "rank": "VIII",
+            "rankLvl": 8,
+            "neededXp": 25340,
+            "xpBooster": 2.2,
+            "coinBooster": 1.9,
+            "battleCooldown": 5400000
+        },
+        {
+            "rank": "IX",
+            "rankLvl": 9,
+            "neededXp": 30009,
+            "xpBooster": 2.3,
+            "coinBooster": 2.1,
+            "battleCooldown": 5580000
+        },
+        {
+            "rank": "X",
+            "rankLvl": 10,
+            "neededXp": 43506,
+            "xpBooster": 2.5,
+            "coinBooster": 2.3,
+            "battleCooldown": 5700000
+        },
+        {
+            "rank": "XI",
+            "rankLvl": 11,
+            "neededXp": 50000,
+            "xpBooster": 2.7,
+            "coinBooster": 2.4,
+            "battleCooldown": 6900000
+        },
+        {
+            "rank": "XII",
+            "rankLvl": 12,
+            "neededXp": 58300,
+            "xpBooster": 3,
+            "coinBooster": 2.8,
+            "battleCooldown": 9600000
+        },
+        {
+            "rank": "XIII",
+            "rankLvl": 13,
+            "neededXp": 64230,
+            "xpBooster": 3.7,
+            "coinBooster": 3.4,
+            "battleCooldown": 11100000
+        },
+        {
+            "rank": "XIV",
+            "rankLvl": 14,
+            "neededXp": 69320,
+            "xpBooster":3.7,
+            "coinBooster": 3.5,
+            "battleCooldown": 13500000
+        },
+        {
+            "rank": "XV",
+            "rankLvl": 15,
+            "neededXp": 72300,
+            "xpBooster": 3.9,
+            "coinBooster": 3.7,
+            "battleCooldown": 16200000
+        }
+    ]
+}

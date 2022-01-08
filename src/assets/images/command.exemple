@@ -1,0 +1,17 @@
+const NormalCommand = require('../../structures/NormalCommands')
+
+module.exports = class extends NormalCommand {
+    constructor(client) {
+        super(client, {
+
+            name: '',
+            description: '',
+            aliases: [''],
+            category: '',
+            howToUse: ``
+        })
+    }
+
+    run = async (client, message, args) => {
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "itens": [
+        {
+            "name": "Glisenti Model 1910",
+            "description": "Uma pistola comum.",
+            "type": "Pistola",
+            "rarity": "Comum",
+            "prop": "5",
+            "propType": "de dano",
+            "typeHand": "esquerda",
+            "val": 10000
+        },
+        {
+            "name": "Beretta M1934",
+            "description": "Uma pistola comum.",
+            "type": "Pistola",
+            "rarity": "Comum",
+            "prop": "7",
+            "propType": "de dano",
+            "typeHand": "esquerda",
+            "val": 15000
+        },
+        {
+            "name": "Mauser C96",
+            "description": "Uma pistola comum.",
+            "type": "Pistola",
+            "rarity": "Comum",
+            "prop": "6",
+            "propType": "de dano",
+            "typeHand": "esquerda",
+            "val": 12000
+        },
+        {
+            "name": "Pattern 1914 Enfield",
+            "description": "Um rifle ótimo.",
+            "type": "Rifle",
+            "rarity": "Incomum",
+            "prop": "15",
+            "propType": "de dano",
+            "typeHand": "Ambas",
+            "val": 20000
+        },
+        {
+            "name": "Carcano modello 1891",
+            "description": "Um rifle ótimo.",
+            "type": "Rifle",
+            "rarity": "Incomum",
+            "prop": "17",
+            "propType": "de dano",
+            "typeHand": "Ambas",
+            "val": 23000
+        },
+        {
+            "name": "Beretta modello 1918",
+            "description": "Atira rápido.",
+            "type": "Submetralhadora",
+            "prop": "25",
+            "propType": "de dano",
+            "rarity": "Raro",
+            "typeHand": "Ambas",
+            "val": 30000
+        },
+        {
+            "name": "MP 18",
+            "description": "Uma linda submetralhadora.",
+            "type": "Submetralhadora",
+            "prop": "30",
+            "propType": "de dano",
+            "rarity": "Raro",
+            "typeHand": "Ambas",
+            "val": 37000
+        },
+        {
+            "name": "Fuzil Garand M-1",
+            "description": "Famosa.",
+            "type": "Fuzil",
+            "prop": "50",
+            "propType": "de dano",
+            "rarity": "Épico",
+            "typeHand": "Ambas",
+            "val": 50000
+        },
+        {
+            "name": "Fuzil Metralhador Browning – B.A.R",
+            "description": "Grande.",
+            "type": "Metralhadora",
+            "prop": "60",
+            "propType": "de dano",
+            "rarity": "Lendária",
+            "typeHand": "Ambas",
+            "val": 70000
+        }
+    ]
+}
