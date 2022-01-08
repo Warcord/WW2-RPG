@@ -1,0 +1,74 @@
+{
+    "itens": [
+        {
+            "name": "Saco de Moedas",
+            "description": "Um saco cheio de moedas.",
+            "type": "consumable",
+            "rarity": "uncommon",
+            "val": 0
+        },
+        {
+            "name": "Blindagem Usada",
+            "description": "Encontrada geralmente no meio do campo de batalha, é uma verdadeira sucata.",
+            "type": "consumable",
+            "rarity": "common",
+            "val": 10
+        },
+        {
+            "name": "Suspensão Christie",
+            "description": "Suspensão utilizada na construção do blindado T-34.",
+            "type": "part",
+            "rarity": "rare",
+            "val": 50000
+        },
+        {
+            "name": "Chassi de T-34",
+            "description": "Um raro chassi.",
+            "type": "part",
+            "rarity": "epic",
+            "val": 150000
+        },
+        {
+            "name": "Torre de T-34",
+            "description": "Torre de um raro tanque soviético.",
+            "type": "part",
+            "rarity": "epic",
+            "val": 17000
+        },
+        {
+            "name": "Canhão 76.2 mm L-1",
+            "description": "Um canho utilizado na construção do poderoso tanque soviético T-34.",
+            "type": "part",
+            "rarity": "uncommon",
+            "val": 70000
+        },
+        {
+            "name": "Canhão 76.2 mm F-34",
+            "description": "Um canho utilizado na construção do poderoso tanque soviético T-34.",
+            "type": "part",
+            "rarity": "epic",
+            "val": 70000
+        },
+        {
+            "name": "Canhão 85 mm ZiS-S-53",
+            "description": "Um canho utilizado na construção do poderoso tanque soviético T-34.",
+            "type": "part",
+            "rarity": "legendary",
+            "val": 200000
+        },
+        {
+            "name": "Motor 12-cyl. modelo diesel V-2 250 hp",
+            "description": "Motor utilizado na construção do poderoso tanque soviético T-34.",
+            "type": "part",
+            "rarity": "legendary",
+            "val": 200000
+        },
+        {
+            "name": "Rodas do T-34",
+            "description": "'-'",
+            "type": "part",
+            "rarity": "ultra",
+            "val": 0
+        }
+    ]
+}
