@@ -17,6 +17,8 @@ Este projeto é um WW2 BOT, trabalho com Discord.JS v13. Iniciei este projeto so
 
 Database: Mongoose (MongoDB)
 Discord Lib: Discord.js v13
-Language: JavaScript
+Language: JavaScript (Node.JS v16 or higher)
+
+Recommended Host: Discloud (discloud.app)
 
 **See more in package.json!**
