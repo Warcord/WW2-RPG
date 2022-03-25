@@ -15,3 +15,4 @@ client.login(process.env.TOKEN)
 process.on('unhandledRejection', async (reason, promise) => {
   writeOnLog(`${reason.message}-${reason?.code} Location: ${promise}`)
 })
+//This bot has been created by GardZock and modified by [YOUR NAME]
