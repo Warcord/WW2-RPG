@@ -1,4 +1,4 @@
-# WARNING
+# ⚠️ WARNING ⚠️
 ## This is an abandoned project, so watch out for errors! | Esse projeto foi abandonado, fique atento a erros!
 
 # Initial idea
