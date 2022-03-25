@@ -11,3 +11,12 @@ Este projeto é um WW2 BOT, trabalho com Discord.JS v13. Iniciei este projeto so
 
 
 # You need put credits in ur code.
+
+
+### Tools for this project
+
+Database: Mongoose (MongoDB)
+Discord Lib: Discord.js v13
+Language: JavaScript
+
+**See more in package.json!**
